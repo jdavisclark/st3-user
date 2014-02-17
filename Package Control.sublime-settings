@@ -1,0 +1,24 @@
+{
+	"channels":
+	[
+		"https://sublime.wbond.net/repositories.json"
+	],
+	"installed_packages":
+	[
+		"Chuby Ninja Color Scheme",
+		"CoffeeScript",
+		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"Random Text",
+		"Razor",
+		"Sublime-JSHint",
+		"Theme - Flatland",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeLinter/SublimeLinter-jshint",
+		"https://github.com/victorporof/Sublime-JSHint"
+	]
+}

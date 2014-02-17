@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Chuby Ninja Color Scheme/Chuby Ninja.tmTheme",
+	"draw_white_space": "selection",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme",
+	"word_wrap": "false",
+	"trim_trailing_white_space_on_save": true
+}
