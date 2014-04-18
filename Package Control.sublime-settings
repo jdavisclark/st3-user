@@ -5,14 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"Case Conversion",
 		"Chuby Ninja Color Scheme",
 		"CoffeeScript",
 		"Emmet",
+		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint Gutter",
+		"LESS",
 		"Package Control",
 		"Random Text",
 		"Razor",
-		"Sublime-JSHint",
+		"SublimeLinter-jshint",
 		"Theme - Flatland",
 		"Themr"
 	],
