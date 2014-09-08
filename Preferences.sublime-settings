@@ -1,16 +1,19 @@
 {
 	"color_scheme": "Packages/User/Chuby Ninja (SL).tmTheme",
 	"draw_white_space": "selection",
+	"font_face": "monaco",
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JSHint Gutter"
+		"JSHint Gutter",
+		"Vintage"
 	],
 	"index_files": true,
 	"open_files_in_new_window": false,
 	"scroll_past_end": true,
 	"theme": "Flatland Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"folder_exclude_patterns": ["_ReSharper.*", ".git", ".nuget"],
+	"enable_telemetry": "disable"
 }
